@@ -1,4 +1,5 @@
 TEST PROCESS FOR THE SCA-CLOUD APPLICATION.
+
 I Started by creating a docker account to allow me build,run and manage my containers on a server.
 I created index.html file where i wrote a text("Welcome to SCA Cloud School Application") that would be displayed in a webpage.
 I linked my html file to my javascript file then clicked the go live to show the output.
